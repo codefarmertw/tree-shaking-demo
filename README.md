@@ -1,6 +1,6 @@
 # Tree-shaking demo
 
-Example of Webpack 5 tree-shaking for [this article](https://www.codefarmer.tw/blog/tree-shaking-2).
+Example of Webpack 5 tree-shaking for [this article](https://www.codefarmer.tw/topic/fe-performance/tree-shaking-2).
 
 ## Usage
 
